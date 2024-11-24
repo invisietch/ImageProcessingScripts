@@ -1,7 +1,9 @@
 # Ignore everything else in img/ and raw/ (but .keep files are allowed)
 img/*
 raw/*
+dataset/*
 
 # Allow the .keep files in img/ and raw/
 !img/.keep
 !raw/.keep
+!dataset/.keep
