@@ -2,6 +2,7 @@
 img/*
 raw/*
 dataset/*
+dataset-safe/*
 
 # Allow the .keep files in img/ and raw/
 !img/.keep
